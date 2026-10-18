@@ -1,5 +1,5 @@
 # TW3_dlcRazorRemasteredNew_UA
-<img width="3840" height="2160" alt="mod_tw3_dlcRazorRemasteredNew_7858_main_preview" src="https://github.com/user-attachments/assets/048baa37-e695-44e8-be25-3e13bc33f7d2" />
+<img width="3840" height="2160" alt="mod_tw3_dlcRazorRemasteredNew_7858_main_preview" src="https://github.com/user-attachments/assets/048baa37-e695-44e8-be25-3e13bc33f7d2" style="max-width: 100%; height: auto; max-height: 1125px; aspect-ratio: 2000 / 1125; border-radius: 6px;" />
 
 UA: Українська локалізація для The Witcher3 DLC Доповнення: Небезпечна бритва
 
